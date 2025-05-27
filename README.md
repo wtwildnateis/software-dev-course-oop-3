@@ -138,15 +138,3 @@ message to the console:
 Reading <title> by <author>...
 Done!
 ```
-
-## Verifying your Solution
-
-Once you have completed the exercises, the first check that you have properly implemented the classes is to simply
-build the project.  If there are any errors, you will need to correct them before proceeding.
-
-Once the project builds successfully, you should run the `Main` class and interact with the console UI in the bottom
-terminal window.  You should be able to add items to the library, view the items that have been added, and read
-the books in the library.
-
-Finally, you should run the tests in the `tests` folder to verify that your solutions are correct.
-
